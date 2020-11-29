@@ -8,7 +8,7 @@ function App() {
         <h1>My pokedex</h1>
       </header>
         <Pokedex />
-    </div>
+      </div>
   );
 }
 
